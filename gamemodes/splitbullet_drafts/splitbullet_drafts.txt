@@ -4,4 +4,5 @@
 	"base"			"splitbullet_anarchy"
 	"maps"		"^sbd_"
 	"menusystem" 	"1"
+	"workshopid"	"2561415657"
 }
