@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture	splitbullet/drafts/cardboard
+	$surfaceprop	cardboard
+	$bumpmap		splitbullet/drafts/cardboard_normal
+}

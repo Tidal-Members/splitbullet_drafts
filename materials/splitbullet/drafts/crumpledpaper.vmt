@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture	splitbullet/drafts/crumpledpaper
+	$surfaceprop	paper
+	$bumpmap		splitbullet/drafts/crumpledpaper_normal
+}

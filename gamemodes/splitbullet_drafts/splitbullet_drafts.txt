@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"title"			"Split Bullet: Drafts"
+	"base"			"splitbullet_anarchy"
+	"maps"		"^sbd_"
+	"menusystem" 	"1"
+}
